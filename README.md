@@ -34,8 +34,7 @@ Contenu :
 
 ### Étape 2 - Implémentation SQL
 
-[Voir Etape 2](Projet/2eme_Etape/Etape2_Transformation_E_A_Relation.pdf)
-[Script d'initialisation de la BDD](Ressources/Script_MySQL_Star_Wars_SGBD.sql)
+[Voir Etape 2](Projet/2eme_Etape/Etape2_Transformation_E_A_Relation.pdf) | [Script d'initialisation de la BDD](Ressources/Script_MySQL_Star_Wars_SGBD.sql)
 
 Contenu :
 - Transformation du modèle E/A vers modèle relationnel
