@@ -41,7 +41,12 @@ Contenu :
 - Scripts d'Initialisations :
   - [MySQL](Ressources/Script_MySQL_Star_Wars_SGBD.sql)
   - [PostgreSQL](Ressources/Script_PostgreSQL_Star_Wars_SGBD.sql)
- 
+
+### Etape 3 - Quelques requêtes SQL
+Contenu :
+  - Scripts contenant les requêtes :
+    - [MySQL](Ressources/MySQL_Star_Wars_Requetes.sql)
+    - [PostgreSQL](Ressources/PostgreSQL_Star_Wars_Requetes.sql)
 
 ## Technologies utilisées
 
